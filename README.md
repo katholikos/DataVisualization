@@ -1,2 +1,29 @@
-# DataVisualization
-A data visualization project under development, designed and developed by the Science and Technology Innovation from the School of Data Science and Techology, Heilongjiang University.
+# datavisualization
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
